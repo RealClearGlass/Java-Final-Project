@@ -1,0 +1,5 @@
+Console: PS3 (PlayStation 3)
+Issue: Yellow Light (YLOD) (PS3)
+
+Diagnosis: Major hardware failure most likley related to the motherboard, GPU, or CPU thermal paste drying out
+Solution: Replace thermal paste or buy a new console
